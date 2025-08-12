@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distrupol.Bank.API", "Distrupol.Bank.API\Distrupol.Bank.API.csproj", "{73328491-C749-4FF0-ADB0-AABC521E5971}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal.API", "Internal.API\Internal.API.csproj", "{73328491-C749-4FF0-ADB0-AABC521E5971}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
