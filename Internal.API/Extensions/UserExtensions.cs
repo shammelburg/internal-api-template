@@ -1,6 +1,6 @@
 using System.Security.Claims;
 
-namespace Distrupol.Bank.API.Extensions;
+namespace Internal.API.Extensions;
 
 public static class UserExtensions
 {
